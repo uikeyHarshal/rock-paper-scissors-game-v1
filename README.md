@@ -5,7 +5,7 @@ A fun and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, and 
 ---
 
 ## 🔗 Live Demo  
-[🎮 Play the Game](https://your-username.github.io/rock-paper-scissors/)  
+[🎮 Play the Game](https://uikeyharshal.github.io/rock-paper-scissors-game-v1/)  
 
 ---
 
