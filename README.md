@@ -10,7 +10,7 @@ A fun and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, and 
 ---
 
 ## 🖼 Preview    
-![Game Preview](./preview.png)  
+![Game Preview](./preview.jpg)  
 
 ---
 
